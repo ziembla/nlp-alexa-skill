@@ -1,0 +1,52 @@
+{
+  "intents": [
+    {
+      "intent": "EditDistance",
+      "slots": [
+        {
+          "name": "phraseA",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "phraseB",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "WhyLike",
+      "slots": [
+        {
+          "name": "phraseA",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "phraseB",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "IsLike",
+      "slots": [
+        {
+          "name": "phraseA",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "phraseB",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+
+EditDistance    what is the edit distance between {dog|phraseA} and {cat|phraseB}
+EditDistance    what is the edit distance between a {lion|phraseA} and a {fish|phraseB}
+EditDistance    what is the edit distance between the {tower|phraseA} and the {clock|phraseB}
+EditDistance    what is the edit distance between {doing something|phraseA} and {green trunk|phraseB}
+EditDistance    what is the edit distance between {doing something bad|phraseA} and {green tree trunk|phraseB}
+
+EditDistance    what is the edit distance between word {dragon|phraseA} and word {tree|phraseB}
+EditDistance    what is the edit distance between phrase {doing|phraseA} and phrase {root|phraseB}
+EditDistance    what is the edit distance between phrase {doing something|phraseA} and phrase {green trunk|phraseB}
+EditDistance    what is the edit distance between phrase {doing something bad|phraseA} and phrase {green tree trunk|phraseB}
+EditDistance    what is the edit distance between words {dragon|phraseA} and {tree|phraseB}
+EditDistance    what is the edit distance between phrases {make something|phraseA} and {do it|phraseB}
+EditDistance    what is the edit distance between phrases {go down under|phraseA} and {good night sleep|phraseB}
+
+
+EditDistance    give me the distance between {dog|phraseA} and {cat|phraseB}
+EditDistance    give me the distance between a {lion|phraseA} and a {fish|phraseB}
+EditDistance    give me the distance between the {tower|phraseA} and the {clock|phraseB}
+EditDistance    give me the distance between {doing something|phraseA} and {green trunk|phraseB}
+EditDistance    give me the distance between {doing something bad|phraseA} and {green tree trunk|phraseB}
+
+EditDistance    give me the distance between word {dragon|phraseA} and word {tree|phraseB}
+EditDistance    give me the distance between phrase {doing|phraseA} and phrase {root|phraseB}
+EditDistance    give me the distance between phrase {doing something|phraseA} and phrase {green trunk|phraseB}
+EditDistance    give me the distance between phrase {doing something bad|phraseA} and phrase {green tree trunk|phraseB}
+EditDistance    give me the distance between words {dragon|phraseA} and {tree|phraseB}
+EditDistance    give me the distance between phrases {make something|phraseA} and {do it|phraseB}
+EditDistance    give me the distance between phrases {go down under|phraseA} and {good night sleep|phraseB}
+
+
+EditDistance    distance from {dog|phraseA} to {cat|phraseB}
+EditDistance    distance from a {lion|phraseA} to a {fish|phraseB}
+EditDistance    distance from the {tower|phraseA} to the {clock|phraseB}
+EditDistance    distance from {doing something|phraseA} to {green trunk|phraseB}
+EditDistance    distance from {doing something bad|phraseA} to {green tree trunk|phraseB}
+
+EditDistance    distance from word {dragon|phraseA} to word {tree|phraseB}
+EditDistance    distance from phrase {doing|phraseA} to phrase {root|phraseB}
+EditDistance    distance from phrase {doing something|phraseA} to phrase {green trunk|phraseB}
+EditDistance    distance from phrase {doing something bad|phraseA} to phrase {green tree trunk|phraseB}
+
+
+
+WhyLike         why is {dog|phraseA} like {cat|phraseB}
+WhyLike         why is a {lion|phraseA} like a {fish|phraseB}
+WhyLike         why is the {tower|phraseA} like the {clock|phraseB}
+WhyLike         why is {doing something|phraseA} like {green trunk|phraseB}
+WhyLike         why is {doing something bad|phraseA} like {green tree trunk|phraseB}
+
+WhyLike         why is word {dragon|phraseA} like word {tree|phraseB}
+WhyLike         why is phrase {doing|phraseA} like phrase {root|phraseB}
+WhyLike         why is phrase {doing something|phraseA} like phrase {green trunk|phraseB}
+WhyLike         why is phrase {doing something bad|phraseA} like phrase {green tree trunk|phraseB}
+
+WhyLike         why are words {dragon|phraseA} and {tree|phraseB} alike
+WhyLike         why are phrases {make something|phraseA} and {do it|phraseB} alike
+WhyLike         why are phrases {go down under|phraseA} and {good night sleep|phraseB} alike
+
+
+
+IsLike          is {dog|phraseA} like {cat|phraseB}
+IsLike          is a {lion|phraseA} like a {fish|phraseB}
+IsLike          is the {tower|phraseA} like the {clock|phraseB}
+IsLike          is {doing something|phraseA} like {green trunk|phraseB}
+IsLike          is {doing something bad|phraseA} like {green tree trunk|phraseB}
+
+IsLike          is word {dragon|phraseA} like word {tree|phraseB}
+IsLike          is phrase {doing|phraseA} like phrase {root|phraseB}
+IsLike          is phrase {doing something|phraseA} like phrase {green trunk|phraseB}
+IsLike          is phrase {doing something bad|phraseA} like phrase {green tree trunk|phraseB}
+
+IsLike          are words {dragon|phraseA} and {tree|phraseB} alike
+IsLike          are phrases {make something|phraseA} and {do it|phraseB} alike
+IsLike          are phrases {go down under|phraseA} and {good night sleep|phraseB} alike

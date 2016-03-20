@@ -1,0 +1,31 @@
+{
+  "session": {
+    "sessionId": "SessionId.qqrq",
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.85dede7b-62f5-4f60-bb39-58ad5715ce3c"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.qqrq"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.qqrq",
+    "timestamp": "2016-03-18T12:39:17Z",
+    "intent": {
+      "name": "WhyLike",
+      "slots": {
+        "phraseA": {
+          "name": "phraseA",
+          "value": "unlikeness"
+        },
+        "phraseB": {
+          "name": "phraseB",
+          "value": "likeness"
+        }
+      }
+    }
+  }
+}
